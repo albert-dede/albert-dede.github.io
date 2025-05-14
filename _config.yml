@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Albert Dede"
   pronouns         : # example: "she/her"  
-  bio              : "A PhD Candidate in Computer Engineering at Kwame Nkrumah University of Science and Technology (KNUST) in Ghana, where I also earned my Bachelor's and Master's degrees. My research focuses on machine learning and computer vision for high-resolution image analysis. My current work in the Responsible Artificial Intelligence Lab aims to improve the efficiency of processing gigapixel histopathology images, with potential impacts on cancer diagnostics and pathology services in Ghana."
+  bio              : "A PhD Candidate in Computer Engineering at Kwame Nkrumah University of Science and Technology (KNUST) in Ghana, where I also earned my Bachelor's and Master's degrees. My research focuses on machine learning and computer vision for high-resolution image analysis."
   location         : "Kumasi"
   employer         : "Kwame Nkrumah University of Science and Technology"
   uri              : # URL
