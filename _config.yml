@@ -22,7 +22,7 @@ repository               : "albert-dede/albert-dede.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Albert Dede"
   pronouns         : # example: "she/her"  
   bio              : "A PhD Candidate in Computer Engineering at Kwame Nkrumah University of Science and Technology (KNUST) in Ghana, where I also earned my Bachelor's and Master's degrees. My research focuses on machine learning and computer vision for high-resolution image analysis. My current work in the Responsible Artificial Intelligence Lab aims to improve the efficiency of processing gigapixel histopathology images, with potential impacts on cancer diagnostics and pathology services in Ghana."
@@ -40,7 +40,7 @@ author:
   semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Albert-Dede?ev=hdr_xprf" # URL
-  scopus           : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57953165000" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
