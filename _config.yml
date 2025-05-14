@@ -22,7 +22,7 @@ repository               : "albert-dede/albert-dede.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Albert Dede"
   pronouns         : # example: "she/her"  
   bio              : "A PhD Candidate in Computer Engineering at Kwame Nkrumah University of Science and Technology (KNUST) in Ghana, where I also earned my Bachelor's and Master's degrees. My research focuses on machine learning and computer vision for high-resolution image analysis."
