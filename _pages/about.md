@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## A Bit About Me
 
 I am currently a PhD researcher specialising in Artificial Intelligence at [Kwame Nkrumah University of Science and Technology (KNUST)](https://www.knust.edu.gh/) in Ghana. I am passionate about machine learning and computer vision. I want to advance scientific research by using new methods in representation learning and deep learning.
