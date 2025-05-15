@@ -15,10 +15,10 @@ At the [Responsible Artificial Intelligence Lab](https://rail.knust.edu.gh/), I 
 ## Academics
 
 My academic journey has been very much a blend of technical and interdisciplinary learning:
-* *PhD in Computer Engineering* (KNUST, 2022-2025 expected)
-* *Master of Arts in Christian Ministry with Management* (Christian Service University, 2023-2024)
-* *Master of Philosophy in Computer Engineering* (KNUST, 2020-2022)
-* *Bachelor of Science in Computer Engineering* (KNUST, 2015-2019)
+* **PhD in Computer Engineering** (KNUST, 2022-2025 expected)
+* **MA in Christian Ministry with Management** (Christian Service University, 2023-2024)
+* **MPhil in Computer Engineering** (KNUST, 2020-2022)
+* **BSc in Computer Engineering** (KNUST, 2015-2019)
 
 ## Technical Skills
 
