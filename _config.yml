@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Albert Dede"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate, Computer Engineering | Machine learning, Deep learning, Computer vision"
+  bio              : "PhD Candidate, Computer Engineering | Machine learning, Deep learning, Computer vision, Photonics"
   location         : "Kumasi"
   employer         : "Kwame Nkrumah University of Science and Technology"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : "https://bsky.app/profile/albertdede.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

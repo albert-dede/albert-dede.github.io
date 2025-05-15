@@ -1,0 +1,14 @@
+---
+title: "Wavelet-Based Feature Extraction for Efficient High-Resolution Image Classification"
+collection: publications
+category: manuscripts
+permalink: /publication/dede2025wavelet
+excerpt: 'This paper presents WaveNet, a method that improves the classification accuracy of high-resolution images in CNNs using wavelet-domain inputs and a wavelet-adaptive efficient channel attention module, while reducing computational complexity.'
+date: 2025-02-18
+venue: 'Engineering Reports'
+paperurl: 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/eng2.70027'
+bibtexurl: 'http://albert-dede.github.io/files/dede2025wavelet.bib'
+citation: 'Dede, A., Nunoo‐Mensah, H., Akowuah, E.K., Boateng, K.O., Adjei, P.E., Acheampong, F.A., Acquah, I. and Kponyo, J.J., 2025. Wavelet‐Based Feature Extraction for Efficient High‐Resolution Image Classification. Engineering Reports, 7(2), p.e70027.'
+---
+
+Convolutional neural networks (CNNs) typically compress high-resolution images to minimize computational requirements. However, this can lead to loss of information and reduced accuracy in classification tasks. This paper introduces WaveNet, a novel approach for processing high-resolution images using wavelet-domain inputs in CNNs. We address the challenge of maintaining classification accuracy with high-resolution inputs while minimizing computational complexity. Our method employs wavelet packet transform (WPT) for image pre-processing, extracting detailed multi-scale and directional information from high-resolution images. We propose a wavelet-adaptive efficient channel attention (WAECA) module to dynamically select the most informative wavelet subbands. Popular CNN architectures like ResNet-50 and MobileNetV2 are adapted by replacing their initial convolutional layers with wavelet-transformed inputs, enabling direct learning in the wavelet domain. Experiments conducted on the Caltech-256 and ALOT datasets demonstrate that WaveNet improves classification accuracy while reducing computational complexity. For instance, our wavelet-enhanced ResNet-50 achieves a Top-1 accuracy of 72.47% on Caltech-256, outperforming the baseline (70.65%) while reducing FLOPs from 16.52G to 3.98G. Similar improvements are observed across different architectures and datasets. We also evaluate various wavelet filters and ResNet backbones, finding that the bior1.1 filter and ResNet-50 provide optimal performance. This work presents a practical solution for developing more accurate and efficient models for high-resolution inputs without extensive computational resources or complex architectural modifications.
